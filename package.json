@@ -1,0 +1,12 @@
+{
+  "name": "cypressaucedemo",
+  "version": "1.0.0",
+  "description": "Pruebas E2E en Cypress para SauceDemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^12.5.0"
+  }
+}

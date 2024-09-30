@@ -1,0 +1,4 @@
+1. La autenticación en SauceDemo se completó exitosamente.
+2. Los productos se agregaron correctamente al carrito.
+3. El proceso de compra fue completado, y se verifica que se culmina en la pantalla de "THANK YOU FOR YOUR ORDER" mediante un screenshot al finalizar la prueba.
+4. Las solicitudes a Backtrace fueron interceptadas para evitar problemas con timeouts o peticiones externas.
